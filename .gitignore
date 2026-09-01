@@ -18,6 +18,7 @@ wheels/
 # Node / frontend build artifacts
 node_modules/
 dist-ssr/
+frontend/hiremeai/.env
 
 # Editor / OS junk
 .vscode/
