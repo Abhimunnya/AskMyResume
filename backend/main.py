@@ -160,7 +160,7 @@ def read_pdf(file_path: Path) -> str:
 
 # ---------- Startup: parse the resume ONCE ----------
 
-RESUME_PATH = Path("Abhimunnya_Dey_Resume(Updated)_Latex.pdf")
+RESUME_PATH = Path("Abhimunnya_Dey_Resume(Updated).pdf")
 cached_resume: Resume | None = None
 resume_load_error: str | None = None
 
